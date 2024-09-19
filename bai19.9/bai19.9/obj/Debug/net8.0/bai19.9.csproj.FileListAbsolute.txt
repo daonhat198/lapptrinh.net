@@ -1,0 +1,14 @@
+C:\Users\laonh\source\repos\bai19.9\bai19.9\bin\Debug\net8.0\bai19.9.exe
+C:\Users\laonh\source\repos\bai19.9\bai19.9\bin\Debug\net8.0\bai19.9.deps.json
+C:\Users\laonh\source\repos\bai19.9\bai19.9\bin\Debug\net8.0\bai19.9.runtimeconfig.json
+C:\Users\laonh\source\repos\bai19.9\bai19.9\bin\Debug\net8.0\bai19.9.dll
+C:\Users\laonh\source\repos\bai19.9\bai19.9\bin\Debug\net8.0\bai19.9.pdb
+C:\Users\laonh\source\repos\bai19.9\bai19.9\obj\Debug\net8.0\bai19.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laonh\source\repos\bai19.9\bai19.9\obj\Debug\net8.0\bai19.9.AssemblyInfoInputs.cache
+C:\Users\laonh\source\repos\bai19.9\bai19.9\obj\Debug\net8.0\bai19.9.AssemblyInfo.cs
+C:\Users\laonh\source\repos\bai19.9\bai19.9\obj\Debug\net8.0\bai19.9.csproj.CoreCompileInputs.cache
+C:\Users\laonh\source\repos\bai19.9\bai19.9\obj\Debug\net8.0\bai19.9.dll
+C:\Users\laonh\source\repos\bai19.9\bai19.9\obj\Debug\net8.0\refint\bai19.9.dll
+C:\Users\laonh\source\repos\bai19.9\bai19.9\obj\Debug\net8.0\bai19.9.pdb
+C:\Users\laonh\source\repos\bai19.9\bai19.9\obj\Debug\net8.0\bai19.9.genruntimeconfig.cache
+C:\Users\laonh\source\repos\bai19.9\bai19.9\obj\Debug\net8.0\ref\bai19.9.dll
